@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Project Alpha",
+    "description": "Fin-tech payment platform that now processes 2M+ txns / month.",
+    "image": "project-alpha.jpg"
+  },
+  {
+    "name": "Beta HR",
+    "description": "HR SaaS used by 40+ European companies.",
+    "image": "project-beta.jpg"
+  }
+]

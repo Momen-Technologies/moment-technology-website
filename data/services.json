@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Web Development",
+    "description": "Scalable full-stack web apps built with Next.js, NestJS and MongoDB."
+  },
+  {
+    "title": "Mobile Apps",
+    "description": "Cross-platform iOS & Android apps using Flutter and React Native."
+  },
+  {
+    "title": "UI / UX Design",
+    "description": "Pixel-perfect, user-centric product design and prototyping."
+  }
+]
